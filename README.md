@@ -4,6 +4,8 @@ We develop regression model to predict Big mart sales to find out the sales on t
 
  We use different Machine Learning algorithms (Linear Regression, K-Nearest Neighbor, Decision Tree, Random Forest Regressor, XG Boost) to predict the outlet production sales. XG Boost is the best model its r2 score is 76.84. 
  
+ This dataset is taken from kaggle.com
+ 
  ## Dataset Details
  The data has 8523 rows of 12 variables.
 
